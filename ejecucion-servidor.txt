@@ -1,0 +1,5 @@
+http://localhost:3000
+Servidor activo y funcionando
+
+http://localhost:3000/servidor
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
